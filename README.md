@@ -1,23 +1,21 @@
-https://www.linkedin.com/in/lohith-nadapana/
-#👋 I’m Lohith Seshu Venkata Ganesh Nadapana, a passionate Computer Science graduate student at the University of Central Missouri, diving deep into JavaScript, Cloud Services, and Python. Driven by an insatiable curiosity, I love building innovative web applications that push the boundaries of creativity and functionality. With a solid foundation in data analysis, algorithm development, and problem-solving, I thrive on tackling complex challenges and delivering elegant solutions.
+# 💫 About Me:
+https://www.linkedin.com/in/lohith-nadapana/ <br>I’m Lohith Seshu Venkata Ganesh Nadapana, a passionate Computer Science graduate student at the University of Central Missouri, diving deep into JavaScript, Cloud Services, and Python. Driven by an insatiable curiosity, I love building innovative web applications that push the boundaries of creativity and functionality. With a solid foundation in data analysis, algorithm development, and problem-solving, I thrive on tackling complex challenges and delivering elegant solutions.<br><br>🎓 Education Master of Science in Computer Science University of Central Missouri, Missouri, MO<br><br>Bachelor of Technology in Computer Science Acharya Nagarjuna University, Guntur, A.P<br><br>🔧 Skills Programming Languages: Python, C, Java, R Tools & Libraries: Pandas, Matplotlib, Seaborn, PyTorch, NumPy, PyAudio, SpeechRecognition Core Competencies: AI, Machine Learning, Deep Learning, Computer Vision, Data Analysis, Problem Solving Soft Skills: Creative Thinking, Strong Communication, Team Collaboration<br><br>🌱 Interests I am passionately committed to continuously learning and staying abreast of the latest advancements in JavaScript, Cloud Services, and Python, eagerly absorbing cutting-edge developments. I thrive on engaging in collaborative projects that inspire me to think creatively and innovate beyond traditional limits.<br><br>📫 Contact Email: inboxlohith@gmail.com Phone: +1 913-899-7775
 
-🎓 Education
-Master of Science in Computer Science
-University of Central Missouri, Missouri, MO
 
-Bachelor of Technology in Computer Science
-Acharya Nagarjuna University, Guntur, A.P
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lohith-nadapana/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lohithnadapana@gmail.com) 
 
-🔧 Skills
-Programming Languages: Python, C, Java, R
-Tools & Libraries: Pandas, Matplotlib, Seaborn, PyTorch, NumPy, PyAudio, SpeechRecognition
-Core Competencies: AI, Machine Learning, Deep Learning, Computer Vision, Data Analysis, Problem Solving
-Soft Skills: Creative Thinking, Strong Communication, Team Collaboration
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lohith05102001&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lohith05102001&theme=gruvbox&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith05102001&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 Interests
-I am passionately committed to continuously learning and staying abreast of the latest advancements in JavaScript, Cloud Services, and Python, eagerly absorbing cutting-edge developments. I thrive on engaging in collaborative projects that inspire me to think creatively and innovate beyond traditional limits.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lohith05102001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-📫 Contact
-Email: inboxlohith@gmail.com
-Phone: +1 913-899-7775
+---
+[![](https://visitcount.itsvg.in/api?id=lohith05102001&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
