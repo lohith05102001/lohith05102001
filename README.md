@@ -1,5 +1,5 @@
 https://www.linkedin.com/in/lohith-nadapana/
-👋 I’m Lohith Seshu Venkata Ganesh Nadapana, a passionate Computer Science graduate student at the University of Central Missouri, diving deep into JavaScript, Cloud Services, and Python. Driven by an insatiable curiosity, I love building innovative web applications that push the boundaries of creativity and functionality. With a solid foundation in data analysis, algorithm development, and problem-solving, I thrive on tackling complex challenges and delivering elegant solutions.
+#👋 I’m Lohith Seshu Venkata Ganesh Nadapana, a passionate Computer Science graduate student at the University of Central Missouri, diving deep into JavaScript, Cloud Services, and Python. Driven by an insatiable curiosity, I love building innovative web applications that push the boundaries of creativity and functionality. With a solid foundation in data analysis, algorithm development, and problem-solving, I thrive on tackling complex challenges and delivering elegant solutions.
 
 🎓 Education
 Master of Science in Computer Science
